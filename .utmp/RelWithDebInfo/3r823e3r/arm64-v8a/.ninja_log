@@ -1,0 +1,12 @@
+# ninja log v5
+3	169	1752845854470783873	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8a24f35bf35e6fc8
+169	282	1752845854582353338	/Users/ais/Documents/ADAProject/gim/masakinesia-game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r823e3r/obj/arm64-v8a/libswappywrapper.so	22598aa2a73983a
+2	641	1752845854940974209	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b4e80d0d10c38b1
+1	646	1752845854945403968	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5f0290674165b3ce
+1	661	1752845854960554180	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9df64515da49e021
+3	664	1752845854962601328	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	6709d4b05012d65
+1	703	1752845855001729185	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e15984d3fb4ec9c9
+3	738	1752845855037420129	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1bd90c53915de970
+2	840	1752845855139369819	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	35821ae9977c9fd7
+1	906	1752845855202606489	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c0093d36c671604e
+906	1020	1752845855318336876	/Users/ais/Documents/ADAProject/gim/masakinesia-game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r823e3r/obj/arm64-v8a/libgame.so	9d60bfd0fa3eb81

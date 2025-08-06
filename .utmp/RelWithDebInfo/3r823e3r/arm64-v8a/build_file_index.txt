@@ -1,0 +1,3 @@
+/Users/ais/Documents/ADAProject/gim/masakinesia-game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/ais/Documents/ADAProject/gim/masakinesia-game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing/CMakeLists.txt
+/Users/ais/Documents/ADAProject/gim/masakinesia-game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
